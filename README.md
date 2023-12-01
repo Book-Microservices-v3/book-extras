@@ -29,6 +29,7 @@ Did you like the book? That’s great, I’m glad I helped you learn something n
 * Star the [Github repositories](https://github.com/Book-Microservices-v3).
 * And, of course, do not hesitate to contact us via Twitter at [@moises_macero](https://twitter.com/moises_macero) and [@taruntelang](https://twitter.com/taruntelang) to let me know your feedback!
 
+<!--
 ## Microservice End-to-End tests with Cucumber
 For this third edition, I’m creating book extensions that give you extra insights on other topics not included in the book.
 
@@ -48,3 +49,4 @@ For this third edition, I’m creating book extensions that give you extra insig
 ### Testing microservices scalability with Cucumber
 ### Summary
 ### Resources
+!>
