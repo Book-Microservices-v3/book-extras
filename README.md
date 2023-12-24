@@ -29,6 +29,8 @@ Did you like the book? That’s great, I’m glad I helped you learn something n
 * Star the [Github repositories](https://github.com/Book-Microservices-v3).
 * And, of course, do not hesitate to contact us via Twitter at [@moises_macero](https://twitter.com/moises_macero) and [@taruntelang](https://twitter.com/taruntelang) to let me know your feedback!
 
+## Articles
+- [Using the @Builder annotation](https://taruntelang.medium.com/the-builder-annotation-in-java-1fce61e5ae3d)
 <!--
 ## Microservice End-to-End tests with Cucumber
 For this third edition, I’m creating book extensions that give you extra insights on other topics not included in the book.
