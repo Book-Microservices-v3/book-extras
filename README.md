@@ -31,7 +31,7 @@ Did you like the book? That’s great, I’m glad I helped you learn something n
 
 ## Resources
 - [Using the @Builder annotation](https://taruntelang.medium.com/the-builder-annotation-in-java-1fce61e5ae3d) - This article delves into the intricacies of the @Builder annotation, exploring its functionality and practical applications in streamlining object creation and enhancing code readability in software development
-- [The Ultimate Guide to Mastering Behavior Driven Development](https://youtu.be/1zzmqN4YmR4) - Explore the world of Behavior Driven Development (BDD) in this comprehensive video guide, covering its fundamentals, advantages, and comparison with Test-Driven Development (TDD). Learn the appropriate applications of BDD vs. TDD and master the art of writing effective BDD scenarios
+- 🎥 [The Ultimate Guide to Mastering Behavior Driven Development](https://youtu.be/1zzmqN4YmR4) - Explore the world of Behavior Driven Development (BDD) in this comprehensive video guide, covering its fundamentals, advantages, and comparison with Test-Driven Development (TDD). Learn the appropriate applications of BDD vs. TDD and master the art of writing effective BDD scenarios
  
 <!--
 ## Microservice End-to-End tests with Cucumber
